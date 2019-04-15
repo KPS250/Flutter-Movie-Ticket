@@ -1,6 +1,7 @@
 # Movie Ticket View
 
-Ticket View in Flutter.
+Flutter- Movie Ticket
+Created for Flutter Dev Create Challenge 2019 which was aimed at creating a good UI within a Dart code limit of 5kb
 
 ## About
 
@@ -8,6 +9,8 @@ This project is focused on creating a pleasant looking ticket view in flutter.
 It can be used in Movie ticket booking apps and provide user with ticket on
 their smart phones instead of a physical copy and save paper.
 It's data is stored in JSON file which is used as a mock data for the view.
+
+![myimage-alt-tag](https://github.com/KPS250/Flutter-Movie-Ticket/blob/master/assets/images/Screenshot.png)
 
 Folder structure:
 
